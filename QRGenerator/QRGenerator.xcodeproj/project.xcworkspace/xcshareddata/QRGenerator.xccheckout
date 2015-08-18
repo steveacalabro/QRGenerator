@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0C7BC0C2-4C14-4E08-A4ED-0620366F7039</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EA9878163BC7963DADB9246492F67CB7EEAA95A1</key>
+		<string>github.com:steveacalabro/QRGenerator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QRGenerator/QRGenerator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EA9878163BC7963DADB9246492F67CB7EEAA95A1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:steveacalabro/QRGenerator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EA9878163BC7963DADB9246492F67CB7EEAA95A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA9878163BC7963DADB9246492F67CB7EEAA95A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRGenerator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
